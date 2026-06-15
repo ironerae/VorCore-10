@@ -1,10 +1,10 @@
-<img width="2240" height="1260" alt="VorCore 10 Custom CoreXY Gantry Mounts" src="https://github.com/user-attachments/assets/b5744e2e-e804-494b-b272-d1cf7a5e575c" /># VorCore 10: Custom CoreXY Gantry Mounts
+<img width="2240" height="1260" alt="VorCore 10 Custom CoreXY Gantry Mounts" src="https://github.com/user-attachments/assets/b5744e2e-e804-494b-b272-d1cf7a5e575c" />
+
+# VorCore 10: Custom CoreXY Gantry Mounts
 
 VorCore 10 is a custom-designed, open-source CoreXY kinematic mounting system. It bridges the gap between the heavy-duty front-motor layout of the SolidCore and the clean, stacked belt routing made popular by Voron designs. 
 
 Optimized and tested for a large, rigid 1000x1000x500mm build volume, this system is built entirely around wider 10mm GT2 belts to handle aggressive accelerations without stretching or skipping.
-
-![VorCore 10 Hero Image](images/hero.png)
 
 ## Design Lineage & Features
 
@@ -16,7 +16,7 @@ Optimized and tested for a large, rigid 1000x1000x500mm build volume, this syste
 
 The VorCore 10 system utilizes standard CoreXY kinematics for its belt routing, making it familiar and straightforward to configure. The mounting system consists of four purpose-built modules designed for easy printing, assembly, and maintenance. *(Note: The Front, Center, and Back modules are required in pairs—one set for the left gantry and one set for the right.)*
 
-![Standard CoreXY Belt Routing Path Diagram](images/CoreXY-Kinematics.webp)
+<img width="768" height="610" alt="CoreXY-Kinematics" src="https://github.com/user-attachments/assets/0c748690-ec8d-49f3-8d17-eadeaacb2292" />
 
 1. **Front (Motor Mount):** Rigidly holds the NEMA 17 stepper motors in the front corners.
 2. **Center (Extrusion Clamp):** Securely grips the X-axis extrusion and maintains perfect alignment for the front-stacked belt path.
